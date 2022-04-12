@@ -78,7 +78,7 @@ body{
 				-webkit-border-radius: 8px 8px 0 0;
 				}
 				.post-main h1 a{
-					font:normal 24px Verdana; color:#3f282f; text-decoration:none;
+					font:normal 24px Verdana; color:black; text-decoration:none;
 					}
 				.post-main h1 a:hover{
 					font:normal 24px Verdana; color:#3f282f; text-decoration:underline;
